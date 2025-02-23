@@ -5,6 +5,11 @@ name = "pypi"
 
 [packages]
 praw = "*"
+wordcloud = "*"
+numpy = "*"
+pillow = "*"
+matplotlib = "*"
+nltk = "*"
 
 [dev-packages]
 
