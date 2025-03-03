@@ -10,6 +10,7 @@ numpy = "*"
 pillow = "*"
 matplotlib = "*"
 nltk = "*"
+networkx = "*"
 
 [dev-packages]
 
